@@ -12,3 +12,5 @@ Open CV를 이용해 눈과 손으로 운전하는 휠체어 입니다.
 # 개발 기간
 - 2021.01.15 ~ 2021.02.16 (예정. 현재진행중)
 
+# prototype 사진
+<img src="./images/prototype.jpg">
