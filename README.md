@@ -15,7 +15,7 @@
 <img src="./images/car_detail.jpg">
 
 # 회로도
-<img src="./images/car_detail.jpg">
+<img src="./images/schematic_rpi_arduino.png">
 
 # block diagram
-<img src="./images/schematic_rpi_arduino.png.jpg">
+<img src="./images/blockdia.jpg">
