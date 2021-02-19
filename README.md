@@ -11,5 +11,11 @@
 # 개발 기간
 - 2021.01.15 ~ 2021.02.20 
 
-# prototype 사진
-<img src="./images/prototype.jpg">
+# 사진
+<img src="./images/car_detail.jpg">
+
+# 회로도
+<img src="./images/car_detail.jpg">
+
+# block diagram
+<img src="./images/schematic_rpi_arduino.png.jpg">
