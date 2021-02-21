@@ -19,3 +19,6 @@
 
 # block diagram
 <img src="./images/blockdia.jpg">
+
+# 동작 영상
+<img src="./images/QR_youtube_wheelchair.jpg">
